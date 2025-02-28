@@ -1,0 +1,12 @@
+package ch01.ex02;
+
+import java.util.Random;
+
+public class 난수발생02 {
+
+	public static void main(String[] args) {
+		
+		
+	}
+
+}

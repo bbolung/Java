@@ -1,0 +1,18 @@
+package ch04.ex01;
+
+public class ForExample01 {
+
+	public static void main(String[] args) {
+		/*
+		 * 반복문
+		 * for, while -> 조건을 만족하는 순간까지 계속 반복
+		 * do ~ while -> 조건을 만족하는 순간까지 계속 반복(단, 최소 1회는 보장)
+		 */
+		
+		int sum = 0;
+		
+		
+		
+	}
+
+}
