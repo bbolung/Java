@@ -1,0 +1,29 @@
+package ch04.ex01;
+
+public class WhileExample05 {
+
+	public static void main(String[] args) {
+		
+		/*
+		 * 조건식 없는 상태로 실행 -> 무한반복
+		 * for(; ; ) {
+			System.out.println("for문");
+			}
+		 */
+		
+		int count=0;
+		for(; ; count++) {
+			if(count>100) break;
+			
+			System.out.println(count);
+		}
+		
+		int cnt=0;
+		
+		while(true) {
+			System.out.println(cnt);
+		}
+		
+	}
+
+}

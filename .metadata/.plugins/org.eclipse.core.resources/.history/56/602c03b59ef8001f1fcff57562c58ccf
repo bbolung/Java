@@ -1,0 +1,9 @@
+package ch04.ex01;
+
+public class ForExample04_배열 {
+
+	public static void main(String[] args) {
+		
+	}
+
+}
