@@ -10,9 +10,9 @@ public class 통장관리01 {
 		Scanner sc = new Scanner(System.in);
 		
 		int balance = 0;		//잔고
-		boolean flag = false;	//false -> while문 계속 실행, true -> while문 빠져나옴 수단
+		boolean flag = true;	//false -> while문 계속 실행, true -> while문 빠져나옴 수단
 		
-		while(true) {
+		while(flag) {
 			
 			System.out.println("-----------------------------");
 			System.out.println("1.예금 | 2.출금 | 3.잔고 | 4.종료");
@@ -35,14 +35,13 @@ public class 통장관리01 {
 				System.out.println(balance);
 				break;
 			case 4:
-				flag = true;
+				flag = false;
 				break;
 			} //swtich
 			
 //			sc.nextLine(); -> 버퍼지우기(엔터키 지워라) -> switch문 밖에 작성
 //			balance += sc.nextInt(); 사용하면 버퍼가 남아서 에러발생
 		
-			if(flag == true) break;
 		} //while
 		System.out.println("프로그램 종료");
 		
