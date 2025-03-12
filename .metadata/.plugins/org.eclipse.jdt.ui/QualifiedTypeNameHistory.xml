@@ -3,9 +3,7 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.function.Function"/>
     <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="ch01.ex02.Person"/>
     <fullyQualifiedTypeName name="ch02.ex01.Person"/>
     <fullyQualifiedTypeName name="ch02.ex02.Student"/>
     <fullyQualifiedTypeName name="ch02.ex03.Person"/>
@@ -24,4 +22,16 @@
     <fullyQualifiedTypeName name="ch01.ex01.SmartPhone"/>
     <fullyQualifiedTypeName name="ch01.ex02.Child"/>
     <fullyQualifiedTypeName name="book.Calculator"/>
+    <fullyQualifiedTypeName name="ch01.ex01.Function01"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="ch01.ex02.Person"/>
+    <fullyQualifiedTypeName name="ch01.ex03.Person"/>
+    <fullyQualifiedTypeName name="ch01.ex05.Person"/>
+    <fullyQualifiedTypeName name="ch01.ex06.Student"/>
+    <fullyQualifiedTypeName name="ch01.ex08.Account"/>
+    <fullyQualifiedTypeName name="ch01.ex08.MainAccount"/>
+    <fullyQualifiedTypeName name="ch01.ex10.C"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="ch01.ex10.B"/>
 </qualifiedTypeNameHistroy>
