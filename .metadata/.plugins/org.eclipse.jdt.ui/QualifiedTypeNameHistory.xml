@@ -32,6 +32,8 @@
     <fullyQualifiedTypeName name="ch01.ex08.Account"/>
     <fullyQualifiedTypeName name="ch01.ex08.MainAccount"/>
     <fullyQualifiedTypeName name="ch01.ex10.C"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="ch01.ex10.B"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="ch01.ex03.HankookTire"/>
+    <fullyQualifiedTypeName name="ch01.ex03.KumhoTire"/>
 </qualifiedTypeNameHistroy>
