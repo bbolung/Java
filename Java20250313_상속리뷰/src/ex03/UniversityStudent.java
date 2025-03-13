@@ -1,4 +1,4 @@
-package ex02;
+package ex03;
 
 public class UniversityStudent extends Student {
 	private String major;	//전공
@@ -9,7 +9,9 @@ public class UniversityStudent extends Student {
 		this.major = major;
 	}
 	
-	void registerCourse() {} 	//수강신청
+	void registerCourse() {
+		System.out.println("registerCourse.....");
+	} 	//수강신청
 	
 	@Override
 	public String toString() {

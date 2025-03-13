@@ -1,4 +1,4 @@
-package ex02;
+package ex04;
 
 public class Student extends Person {
 	private String schoolName;
@@ -11,7 +11,9 @@ public class Student extends Person {
 		this.grade = grade;
 	}
 	
-	void study() {}
+	void study() {
+		System.out.println("study.....");
+	}
 	
 	@Override
 	public String toString() {

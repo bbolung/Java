@@ -1,4 +1,4 @@
-package ex02;
+package ex04;
 
 public class Person {
 	private String name;
@@ -10,7 +10,9 @@ public class Person {
 		this.age = age;
 	}
 	
-	void sleep() {}
+	void sleep() {
+		System.out.println("sleep.....");
+	}
 	void eat() {}
 	
 	public String getName() {

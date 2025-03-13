@@ -33,7 +33,14 @@
     <fullyQualifiedTypeName name="ch01.ex08.MainAccount"/>
     <fullyQualifiedTypeName name="ch01.ex10.C"/>
     <fullyQualifiedTypeName name="ch01.ex10.B"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="ch01.ex03.HankookTire"/>
     <fullyQualifiedTypeName name="ch01.ex03.KumhoTire"/>
+    <fullyQualifiedTypeName name="ex02.Person"/>
+    <fullyQualifiedTypeName name="ex02.Student"/>
+    <fullyQualifiedTypeName name="ex02.UniversityStudent"/>
+    <fullyQualifiedTypeName name="ex03.UniversityStudent"/>
+    <fullyQualifiedTypeName name="ex05.SamsungTV"/>
+    <fullyQualifiedTypeName name="ex07.Product"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
 </qualifiedTypeNameHistroy>
