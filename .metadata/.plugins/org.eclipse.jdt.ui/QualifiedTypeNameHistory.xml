@@ -23,7 +23,6 @@
     <fullyQualifiedTypeName name="ch01.ex02.Child"/>
     <fullyQualifiedTypeName name="book.Calculator"/>
     <fullyQualifiedTypeName name="ch01.ex01.Function01"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="ch01.ex02.Person"/>
     <fullyQualifiedTypeName name="ch01.ex03.Person"/>
@@ -41,6 +40,12 @@
     <fullyQualifiedTypeName name="ex03.UniversityStudent"/>
     <fullyQualifiedTypeName name="ex05.SamsungTV"/>
     <fullyQualifiedTypeName name="ex07.Product"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+    <fullyQualifiedTypeName name="ex07.SalaryExpr"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="ex01.GradeExpr"/>
+    <fullyQualifiedTypeName name="ex01.Student"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="ex01.Multiplication"/>
+    <fullyQualifiedTypeName name="ex01.GuGuDanExpr"/>
 </qualifiedTypeNameHistroy>

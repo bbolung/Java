@@ -1,4 +1,4 @@
-package ex07;
+package ex01;
 
 /*
  * 5개의 원소를 갖는 Product 타입의 배열을 생성한 후에Product 객체를 5개 

@@ -1,4 +1,4 @@
-package ex07;
+package ex01;
 
 /*
  * Book 클래스의 객체(인스턴스)를 5개 생성하고 각각 변수에 
