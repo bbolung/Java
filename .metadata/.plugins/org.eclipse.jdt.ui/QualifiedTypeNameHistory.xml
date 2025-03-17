@@ -45,7 +45,9 @@
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="ex01.GradeExpr"/>
     <fullyQualifiedTypeName name="ex01.Student"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="ex01.Multiplication"/>
     <fullyQualifiedTypeName name="ex01.GuGuDanExpr"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="ex01.Mobile"/>
+    <fullyQualifiedTypeName name="ex01.Ltab"/>
 </qualifiedTypeNameHistroy>
