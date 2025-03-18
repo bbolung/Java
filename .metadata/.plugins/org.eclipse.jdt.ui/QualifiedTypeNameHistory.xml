@@ -47,7 +47,13 @@
     <fullyQualifiedTypeName name="ex01.Student"/>
     <fullyQualifiedTypeName name="ex01.Multiplication"/>
     <fullyQualifiedTypeName name="ex01.GuGuDanExpr"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="ex01.Mobile"/>
     <fullyQualifiedTypeName name="ex01.Ltab"/>
+    <fullyQualifiedTypeName name="ex01.Telvision"/>
+    <fullyQualifiedTypeName name="ex01.Radio"/>
+    <fullyQualifiedTypeName name="ex01.RemoteControl"/>
+    <fullyQualifiedTypeName name="ex02.RemoteControl"/>
+    <fullyQualifiedTypeName name="emp.Secretary"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="emp.Employee"/>
 </qualifiedTypeNameHistroy>
