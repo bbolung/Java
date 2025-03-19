@@ -1,5 +1,7 @@
 package ex03;
 
+import java.util.Arrays;
+
 public class Exam01 {
 
 	public static void main(String[] args) {
@@ -8,8 +10,11 @@ public class Exam01 {
 		
 		int[] arr = is_even(numbers);
 		
-		for(int i : arr)
-			System.out.print(i + " ");
+//		for(int i : arr)
+//			System.out.print(i + " ");
+		//반복문으로 출력하지 않고, 배열에 어떤 값이 있는지 출력하고자 할 때 사용할 수 O
+		System.out.println(Arrays.toString(arr));
+		System.out.println(Arrays.toString(numbers));
 	}
 	
 	static int[] is_even(int[] n) {
