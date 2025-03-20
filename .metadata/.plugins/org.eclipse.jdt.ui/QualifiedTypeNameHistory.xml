@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ch06.Student"/>
     <fullyQualifiedTypeName name="ch06.Car"/>
     <fullyQualifiedTypeName name="ch06.ex02.Car"/>
     <fullyQualifiedTypeName name="ch06.ex03.Car"/>
@@ -60,4 +59,5 @@
     <fullyQualifiedTypeName name="lombok.Getter"/>
     <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
     <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>
