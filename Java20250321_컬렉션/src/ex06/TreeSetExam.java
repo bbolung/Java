@@ -1,6 +1,5 @@
 package ex06;
 
-import java.util.Iterator;
 import java.util.Set;
 import java.util.TreeSet;
 class Num2 {
@@ -72,5 +71,4 @@ public class TreeSetExam {
 		 */
 		
 	}
-
 }

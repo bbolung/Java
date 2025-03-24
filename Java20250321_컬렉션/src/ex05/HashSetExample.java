@@ -1,6 +1,7 @@
 package ex05;
 
 import java.util.HashSet;
+import java.util.Objects;
 import java.util.Set;
 
 import lombok.AllArgsConstructor;
@@ -20,18 +21,19 @@ class Member {
 	//hashCode가 같으면 equals 메소드로 비교
 	@Override
 	public int hashCode() {
-		System.out.println("--------------hashCode--------------");
-		
 		//hashCode 확인용
-		int result = name.hashCode()+age;
-		System.out.println("hashCode : " + result);
+		System.out.println("--------------hashCode--------------");
+		int result  = Objects.hash(name,age);
+		System.out.println("HashCode: " + result);
 		
-		return result;
+		return Objects.hash(name,age);
 	}
 	
 	@Override
 	public boolean equals(Object obj) {
+		//equals 확인용
 		System.out.println("---------------equals---------------");
+		
 		Member m = (Member)obj;
 		return this.name.equals(m.name) && this.age == m.age;
 	}
